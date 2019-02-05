@@ -1,0 +1,143 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*-------------Navbar--------------------*/
+.navbar {
+    font-family: "Sarabun", sans-serif;
+}
+
+.navbar-bandname a {
+    font-family: "Sarabun", sans-serif;
+    font-weight:bold;
+    margin-top: 0;
+    margin-bottom: 10px;
+    top: 0;
+    position: fixed;
+    left: 0;
+    padding-top:25px;
+    color: #fff;
+    font-size:40px;
+}
+
+.navbar-header {
+    margin-top: 0;
+    top: 0;
+    position: fixed;
+    right: 0;
+    padding: 20px;
+}
+
+.navbar-brand a {
+    font-family: "Sarabun", sans-serif;
+}
+
+/*------------Containers-----------------*/
+
+.background-container {
+    height: 100vh;
+    
+    background: url('../assets/images/thedevelopers.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+  
+}
+
+.phrase-container {
+    color: #cccccc;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+
+/*------------Dividers-----------------*/
+
+.dividers {
+    background-color: #919191;
+    opacity: .70;
+    width: 150px;
+    height: 6px;
+    border:0;
+    margin-top: 20px;
+    
+    
+}
+
+.opaque-overlay {
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    height:100%;
+    width:100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.social-links li a {
+    color: #fff;
+    font-size: 2em;
+    margin-right: 5px;
+}
+
+.list-inline h5 {
+    font-size: 20px;
+    color: #fff;
+}
+
+
+/*------------Buttons-----------------*/
+
+.site-feature .btn {
+     font-weight:bold;
+     border-radius:23px;
+     width: 130px;
+     background-color: #cccccc;
+     font:"Sarabun";
+     margin-bottom:10px;
+     opacity: 0.65;
+     transition: ease-in-out;
+}
+
+.site-feature .btn:hover {
+    background-color:#bababa;
+    
+}
+
+.signup-btn {
+    margin-bottom: 5px;
+    background-color:#bababa;
+    color: #000;
+    border-color:#000;
+    transition: ease-in
+    opacity:0.6;
+    
+}
+
+.signup-btn .btn:hover a{
+    background-color: #ffffff;
+}
+
+/*------------Footer-----------------*/
+
+footer{
+    background-color: #050505;
+    color:#cccccc;
+    opacity: 0.6;
+    min-height: 20px;
+    width:100%;
+    margin-left: -15px;
+    position:fixed;
+    bottom:0;
+    text-align:center;
+
+}
+
+.uppercase .general-sub {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0;
+}
