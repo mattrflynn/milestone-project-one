@@ -30,6 +30,11 @@ body {
 
 .navbar-brand a {
     font-family: "Sarabun", sans-serif;
+    
+}
+
+.navbar-header:hover li {
+    color: #bababa;
 }
 
 /*------------Containers-----------------*/
@@ -53,6 +58,34 @@ body {
     text-align: center;
 }
 
+.media-body {
+    text-align: left;
+    color: #cccccc;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+.aboutus-master {
+    background-color: transparent;
+    margin-top: 0;
+    top: 5em;
+    text-decoration: none;
+}
+
+.aboutus-container {
+    align-items: center;
+}
+
+.my-container {
+    color: #fff;
+    
+} 
+
+.ourmusic-container  .col-xs-12 .col-md-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /*------------Dividers-----------------*/
 
@@ -63,8 +96,16 @@ body {
     height: 6px;
     border:0;
     margin-top: 20px;
-    
-    
+  
+}  
+
+.aboutus-dividers {
+    background-color: #919191;
+    opacity: .70;
+    width: 150px;
+    height: 6px;
+    border:0;
+    margin-top: 10px;
 }
 
 .opaque-overlay {
@@ -112,8 +153,7 @@ body {
     background-color:#bababa;
     color: #000;
     border-color:#000;
-    transition: ease-in
-    opacity:0.6;
+    transition: ease-in;
     
 }
 
@@ -133,11 +173,41 @@ footer{
     position:fixed;
     bottom:0;
     text-align:center;
-
 }
 
-.uppercase .general-sub {
-    margin-top: 0px;
-    margin-bottom: 0px;
+/*---------Headers-----------------*/
+
+.aboutus-header {
+    text-align: center;
+    text-decoration: none;
+    color: #cccccc;
+    margin-top: 0;
+}
+
+
+
+/*--------Audio------------*/
+.audio-body{
     padding: 0;
+    opacity: 0.75;
+}
+
+.audio-heading {
+    text-align:center;
+    color: #fff;
+    text-decoration: bold;
+}
+
+.media-flex {
+    padding: 10px;
+    opacity: 0.8;
+    
+}
+
+.audiocontrol-header {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 2px;
+    text-decoration:underline; 
+    
 }

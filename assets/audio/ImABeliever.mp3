@@ -19,7 +19,7 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-pWLt6abkYhNeAHaDrPVG0yXCtIGRuCkwSUqQpsyN6smAIpIt+Iuq2IZKmoH9l3Cy/9ZnjvVrFZnvFFjGiqE3EA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a3b8a10d4a9e37a78f033ef4a4f525f5.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-st/MZOA7lW0PjoLaYJnHpKUnEBP0QeG3wh5gTX5MQSRsjFFbmaDE/65hO9kV+ke+y0+UxYK4/R2jXjJ9ohWIFw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-19c4275cb6dee0f3183811d5ce6389a8.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-SJFQqYJ9+0kVizLKBec6JGEKZQYJdQlYcrVD5F5NJ0Xxuj/3FTaCOKqxEMleU21EeszhKfvbDr1RWAAA4ruhWA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-126ea3c592ab494d4bafa2cbe89b3814.css" />
   
   
   
@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>project-assets/stream-1/band-assets/video at master · Code-Institute-Org/project-assets</title>
+  <title>project-assets/ImABeliever.mp3 at master · Code-Institute-Org/project-assets</title>
     <meta name="description" content="Band assets for Stream One. Contribute to Code-Institute-Org/project-assets development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/16867170?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Code-Institute-Org/project-assets" /><meta property="og:url" content="https://github.com/Code-Institute-Org/project-assets" /><meta property="og:description" content="Band assets for Stream One. Contribute to Code-Institute-Org/project-assets development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzU5OTAyNjY5OmY0YzJjODVlOGM4NjZlOGM0MzY5ZTk0ZTM4NmJlOTYwZjcxNTk2Y2NmMjE5NjEzYjlkMGYzZjFkZDRmOGIyZDc=--2d15ae12e8c13d9247525a583e18d02c432c06a5">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzcwNjg1MjI3OjM0NmNiMTY0OGM1MWYxZDlmZGJmYTI2MjRhZGIwYTYzY2Y3YTNjNzc2MGMzMzMxMjgzZGNiMmM4ZDI2YzExYWM=--022f741015fddea3b258a340e60b80dc3ea650ff">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C437:4079F:158213C:20558DE:5C3F9BDF" data-pjax-transient>
+  <meta name="request-id" content="DCD2:12882:E5C218:15D6CAA:5C648B12" data-pjax-transient>
 
 
   
@@ -52,14 +52,14 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C437:4079F:158213C:20558DE:5C3F9BDF" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="33867851" /><meta name="octolytics-actor-login" content="mattrflynn" /><meta name="octolytics-actor-hash" content="ae379754ce90331a1426f927a1c8f79c590bf9b2d6bd2f6b2e626e8d782d339e" />
-<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate" data-pjax-transient="true" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="DCD2:12882:E5C218:15D6CAA:5C648B12" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="33867851" /><meta name="octolytics-actor-login" content="mattrflynn" /><meta name="octolytics-actor-hash" content="ae379754ce90331a1426f927a1c8f79c590bf9b2d6bd2f6b2e626e8d782d339e" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
 
     <meta name="google-analytics" content="UA-3769691-2">
 
-  <meta class="js-ga-set" name="userId" content="f5c249a683f0eddb9034b213e4d5e5eb" %>
+  <meta class="js-ga-set" name="userId" content="f5c249a683f0eddb9034b213e4d5e5eb">
 
 <meta class="js-ga-set" name="dimension1" content="Logged In">
 
@@ -71,13 +71,13 @@
     <meta name="user-login" content="mattrflynn">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MjJjYzg0YzYzNzA3ZmY1NDkwMzhlNjczNGFlMDE1NTczOTc4ZjI0ZDZkMDg4OGI0N2JjYjA1MzVkMzEwMTdhZHx7InJlbW90ZV9hZGRyZXNzIjoiODguOTcuMTAzLjI0NCIsInJlcXVlc3RfaWQiOiJDNDM3OjQwNzlGOjE1ODIxM0M6MjA1NThERTo1QzNGOUJERiIsInRpbWVzdGFtcCI6MTU0NzY3MjU0MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NTdmODJlYTQ3Y2YzZjlhMmFjNmFjYjg3MzAzMDgyOWYyMzQ4ZGU5ZmVkNDdjZmJjOWZlYTgwZDM5NjQ0OTg4N3x7InJlbW90ZV9hZGRyZXNzIjoiODguOTcuMTAzLjI0NCIsInJlcXVlc3RfaWQiOiJEQ0QyOjEyODgyOkU1QzIxODoxNUQ2Q0FBOjVDNjQ4QjEyIiwidGltZXN0YW1wIjoxNTUwMDkzMDkzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
-    <meta name="enabled-features" content="EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_INSIGHTS_V2">
+    <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_BROWSING_V2,MARKETPLACE_INSIGHTS_V2,COMMENT_AUTHOR_LABEL">
 
-  <meta name="html-safe-nonce" content="a99d30abc95981cd3a0423d1fc48c3c41027fc04">
+  <meta name="html-safe-nonce" content="87cadc30d4da090beafd055a4b4b255723bedf61">
 
-  <meta http-equiv="x-pjax-version" content="4fab86376f118743570bdad026df40d6">
+  <meta http-equiv="x-pjax-version" content="b7e03dd489504af15b705ffe1df263af">
   
 
       <link href="https://github.com/Code-Institute-Org/project-assets/commits/master.atom" rel="alternate" title="Recent Commits to project-assets:master" type="application/atom+xml">
@@ -87,7 +87,7 @@
   <meta name="octolytics-dimension-user_id" content="16867170" /><meta name="octolytics-dimension-user_login" content="Code-Institute-Org" /><meta name="octolytics-dimension-repository_id" content="77155798" /><meta name="octolytics-dimension-repository_nwo" content="Code-Institute-Org/project-assets" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="77155798" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Code-Institute-Org/project-assets" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/video" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Code-Institute-Org/project-assets/blob/master/stream-1/band-assets/audio/ImABeliever.mp3" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -99,16 +99,14 @@
 
 <meta name="theme-color" content="#1e2327">
 
-  <link rel="apple-touch-icon" href="https://github.githubassets.com/apple-touch-icon.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="https://github.githubassets.com/apple-touch-icon-180x180.png">
-  <meta name="apple-mobile-web-app-title" content="GitHub">
 
+  <meta name="u2f-support" content="true">
 
   <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
 
   </head>
 
-  <body class="logged-in env-production false">
+  <body class="logged-in env-production emoji-size-boost page-blob">
     
 
   <div class="position-relative js-header-wrapper ">
@@ -158,7 +156,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=65iLjdr+gdqqVGYCgC2/acdE8xQQj11whRL4phTc7iWHJ0kdN4VgRMwJvbuBaN5cCwQwP6mS/RoDj/OQn1L82g=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=kUaXgUJO1nJGgnf7tlx3VsEcpp5PM/tYzHbYjCjxjWsVP5GR9T0bzNWcUJD1lCSq32TBDHOvBUqxKsW2kR8H1Q=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -377,7 +375,7 @@
           
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:16867170,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:33867851,&quot;client_id&quot;:&quot;599828854.1533816204&quot;,&quot;originating_request_id&quot;:&quot;DCD2:12882:E5C218:15D6CAA:5C648B12&quot;,&quot;originating_url&quot;:&quot;https://github.com/Code-Institute-Org/project-assets/blob/master/stream-1/band-assets/audio/ImABeliever.mp3&quot;}}" data-hydro-click-hmac="27b772ca9318e0d5e5d55922e67494073b1a8e6757ed95e5f7d9938272746914">
       <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
         <div class="user-status-emoji-container flex-shrink-0 mr-1">
           <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
@@ -386,22 +384,21 @@
       <div class="d-inline-block v-align-middle user-status-message-wrapper f6 lh-condensed ws-normal pt-1">
           <span class="link-gray">Set your status</span>
       </div>
-    </summary>
-    <details-dialog class="anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="tjq5TmJ+8nlyUv4UqPJK2XBRXkqguDc9REl+ABmSib2UfCuoQXM6qSdwrxj0bza7tOgGTkvl9E49ZiDIKR46Fw==" />
-        <div class="Box-header">
+</summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="C3FInD++sJzs5+RvoTRazELqsGbOMnNoVXfQMSCkRGF56iuHotMCbKutKmKr3m8PRuEWS+wHuY26gsOJUbYfnw==" />
+        <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
           </button>
-          <h3 class="Box-title text-gray-dark">Edit status</h3>
+          <h3 class="Box-title f5 text-bold text-gray-dark">Edit status</h3>
         </div>
         <input type="hidden" name="emoji" class="js-user-status-emoji-field" value="">
         <input type="hidden" name="organization_id" class="js-user-status-org-id-field" value="">
         <div class="px-3 py-2 text-gray-dark">
           <div class="js-characters-remaining-container js-suggester-container position-relative mt-2">
-            <div class="input-group">
-              <span class="input-group-button">
-                <button type="button" aria-label="Choose an emoji" class="btn-outline btn js-toggle-user-status-emoji-picker">
+            <div class="input-group d-table form-group my-0 js-user-status-form-group">
+              <span class="input-group-button d-table-cell v-align-middle" style="width: 1%">
+                <button type="button" aria-label="Choose an emoji" class="btn-outline btn js-toggle-user-status-emoji-picker bg-white btn-open-emoji-picker">
                   <span class="js-user-status-original-emoji" hidden></span>
                   <span class="js-user-status-custom-emoji"></span>
                   <span class="js-user-status-no-emoji-icon" >
@@ -409,7 +406,8 @@
                   </span>
                 </button>
               </span>
-              <input type="text" autocomplete="off" autofocus data-maxlength="80" class="js-suggester-field form-control js-user-status-message-field js-characters-remaining-field" placeholder="What's happening?" name="message" required value="" aria-label="What is your current status?">
+              <input type="text" autocomplete="off" autofocus data-maxlength="80" class="js-suggester-field d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field" placeholder="What's happening?" name="message" required value="" aria-label="What is your current status?">
+              <div class="error">Could not update your status, please try again.</div>
             </div>
             <div class="suggester-container">
               <div class="suggester js-suggester js-navigation-container" data-url="/autocomplete/user-suggestions" data-no-org-url="/autocomplete/user-suggestions" data-org-url="/suggestions" hidden>
@@ -487,7 +485,6 @@
         </div>
 </form>    </details-dialog>
   </details>
-
 </div>
 
         </div>
@@ -496,6 +493,7 @@
         <a role="menuitem" class="dropdown-item" href="/mattrflynn" data-ga-click="Header, go to profile, text:your profile">Your profile</a>
         <a role="menuitem" class="dropdown-item" href="/mattrflynn?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories">Your repositories</a>
 
+        <a role="menuitem" class="dropdown-item" href="/mattrflynn?tab=projects" data-ga-click="Header, go to projects, text:your projects">Your projects</a>
 
         <a role="menuitem" class="dropdown-item" href="/mattrflynn?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">Your stars</a>
           <a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a>
@@ -503,7 +501,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xhey+3wlCrgxG2VNN99txb5gRy3JC3bJHIqJucMSUuo5rkKboLW06O3KeFoH1w93oN07Zp2gG7Sd9z5z+3d8Lw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YHC61HvlgrFOyT8+ViVkgxZyNv5lJFl+Cbrfhyiy+cvIGmRm4l64GGe0XUfylaTlSmkBcfDEdb4/tt0PQ6Wqmw==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -515,7 +513,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VuwMlSe+zE62hyTyoHMoBihWCBNJgayvwIWv3ST5eAapVfz1+y5yHmpWOeWQe0q0Nut0WB0qwdJB+BgXHJxWww==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nQd2sIBiTJYMqY5PF3GrzfDIE0hYKt3A81i1zbSXq9Q1bagCGdl2PyXU7DazwWurrNMkx83K8QDFVLdF34D4hA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -540,6 +538,8 @@
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <div id="js-repo-pjax-container" data-pjax-container >
       
+
+
   
 
 
@@ -552,11 +552,12 @@
     <div class="repohead-details-container clearfix container">
 
       <ul class="pagehead-actions">
+
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ph6xvYEoUwdSCEStrvx23mJBeWulsIuP5VUq8XXTgy2v/wsb1wVQq5CmrxXcNz5f4DNoanGXBaZ4bOoUDEm9MQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="77155798" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FsS7HBGSi/wTnjEje4alcO4Tjm/Lj61QAf/3BjB4Nh32+eX1qFZs+9ncBJ+Y2AZvY5K6KR6gs1Fkls+G7yHu0w==" />      <input type="hidden" name="repository_id" id="repository_id" value="77155798" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:files#disambiguate">
+        <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
           <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
@@ -627,13 +628,13 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Code-Institute-Org/project-assets/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YozKcO0RAI/lyKsiXs0q+9vBGGuUKGoDk1hvIyG60YrRjxa4f0MquxZeErYy1WEy/dQ8FQENcrXd+PCZcqqkSQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/Code-Institute-Org/project-assets/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UF4H+qj5pUdAF3hiECTEaTekdK/HvQE5FNVKISUHLShWwxPqBw3wUZhr/vrwf7gVDG7/Ou9kDqfmgSw+N1CcTA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Code-Institute-Org/project-assets"
-        data-ga-click="Repository, click unstar button, action:files#disambiguate; text:Unstar">
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
       </button>
@@ -642,13 +643,13 @@
           1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Code-Institute-Org/project-assets/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DJAhpG5E/kBkLD+KCL5OdFY/VdxFkClWF/miIcMc+P42DkWziZbGAPnCz6aWaNMQizZ5O6GMhmZV06hsZFOFUQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/Code-Institute-Org/project-assets/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wMBl+Ex1Ed9Y8ntsITEVwrlmrrlWpjxOyJs10i0Qy3Uk5+nTGmN4NBn4HIPPZg2ISfwbzG8Z8hxvJfu+FXW+sA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Code-Institute-Org/project-assets"
-        data-ga-click="Repository, click star button, action:files#disambiguate; text:Star">
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
       </button>
@@ -661,11 +662,11 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Code-Institute-Org/project-assets/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZLTpta5GPKqkyVVPno6GWeWKVHMHqty8lC05bFrnFfbCuf92ODB71hAOUzL7RgiIsS61bcvexMnfQdzXIaCPhA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/Code-Institute-Org/project-assets/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="un3hgiSGgdvghF8SEBrsqqNPALMA+xk03j6iityDZW0iW9d7cjgef7iV7nMg5Q0vzaPbLDaPLdc3tl8YPWTsWQ==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
-                data-ga-click="Repository, show fork modal, action:files#disambiguate; text:Fork"
+                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
                 title="Fork your own copy of Code-Institute-Org/project-assets to your account"
                 aria-label="Fork your own copy of Code-Institute-Org/project-assets to your account">
               <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
@@ -673,8 +674,8 @@
             </button>
 </form>
     <a href="/Code-Institute-Org/project-assets/network/members" class="social-count"
-       aria-label="29 users forked this repository">
-      29
+       aria-label="28 users forked this repository">
+      28
     </a>
   </li>
 </ul>
@@ -729,7 +730,7 @@
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security /Code-Institute-Org/project-assets/pulse" href="/Code-Institute-Org/project-assets/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse alerts security people /Code-Institute-Org/project-assets/pulse" href="/Code-Institute-Org/project-assets/pulse">
       <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
       Insights
 </a>
@@ -738,143 +739,122 @@
 
 
   </div>
-
 <div class="container new-discussion-timeline experiment-repo-nav  ">
   <div class="repository-content ">
 
     
     
-  <div class="file-navigation">
-    
-<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left js-load-contents"
-  data-contents-url="/Code-Institute-Org/project-assets/ref-list/master/stream-1/band-assets/video?source_action=disambiguate&amp;source_controller=files">
-  <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    
-    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
-    <i>Branch:</i>
-    <span class="js-select-button css-truncate-target">master</span>
-  </button>
 
-  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
-    <div class="select-menu-modal">
-      <div class="js-select-menu-deferred-content"></div>
-      <div class="select-menu-loading-overlay anim-pulse">
-        <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+
+
+  
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Code-Institute-Org/project-assets/blob/e7240f1bc26b9609da75a4408e9dbea792d38c59/stream-1/band-assets/audio/ImABeliever.mp3">Permalink</a>
+
+    <!-- blob contrib key: blob_contributors:v21:ecd32a815ac522e9ecdab57a3f402b69 -->
+
+    
+
+    <div class="file-navigation">
+      
+<details class="details-reset details-overlay select-menu branch-select-menu float-left">
+  <summary class="btn btn-sm select-menu-button css-truncate"
+           data-hotkey="w"
+           
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target">master</span>
+  </summary>
+
+  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/Code-Institute-Org/project-assets/ref-list/master/stream-1/band-assets/audio/ImABeliever.mp3?source_action=show&amp;source_controller=blob" preload>
+    <include-fragment class="select-menu-loading-overlay anim-pulse">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+    </include-fragment>
+  </details-menu>
+</details>
+
+      <div class="BtnGroup float-right">
+        <a href="/Code-Institute-Org/project-assets/find/master"
+              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+              data-pjax
+              data-hotkey="t">
+          Find file
+        </a>
+        <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+          Copy path
+        </clipboard-copy>
+      </div>
+      <div id="blob-path" class="breadcrumb">
+        <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets"><span>project-assets</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets/tree/master/stream-1"><span>stream-1</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets"><span>band-assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/audio"><span>audio</span></a></span><span class="separator">/</span><strong class="final-path">ImABeliever.mp3</strong>
       </div>
     </div>
-  </div>
-</div>
 
-    <div class="BtnGroup float-right">
+
+    <include-fragment src="/Code-Institute-Org/project-assets/contributors/master/stream-1/band-assets/audio/ImABeliever.mp3" class="commit-tease commit-loader">
+      <div>
+        Fetching contributors&hellip;
+      </div>
+
+      <div class="commit-tease-contributors">
+          <img alt="" class="loader-loading float-left" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
+
+
+
+    <div class="file ">
       
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-form" action="/Code-Institute-Org/project-assets/new/master/stream-1/band-assets/video" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ce1zGTihHmPLeSckGtnBfSBSnSR/DJuwXJQc0ysE1EKEHu2FC64iWntMDGmeUKY4n9/Qe6sLVLHVNSvCQTgmSA==" />
-    <button class="btn btn-sm BtnGroup-item" type="submit" data-disable-with="Creating file…">
-      Create new file
-    </button>
-</form>
+<div class="file-header">
 
-        <a href="/Code-Institute-Org/project-assets/upload/master/stream-1/band-assets/video" class="btn btn-sm BtnGroup-item">
-          Upload files
+  <div class="file-actions">
+
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/Code-Institute-Org/project-assets/raw/master/stream-1/band-assets/audio/ImABeliever.mp3">Download</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/Code-Institute-Org/project-assets/commits/master/stream-1/band-assets/audio/ImABeliever.mp3">History</a>
+    </div>
+
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="https://desktop.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:mac">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-      <a href="/Code-Institute-Org/project-assets/find/master" data-pjax data-hotkey="t" class="js-pjax-capture-input btn btn-sm BtnGroup-item empty-icon">
-        Find file
-      </a>
-      <a href="/Code-Institute-Org/project-assets/commits/master/stream-1/band-assets/video" class="btn btn-sm BtnGroup-item empty-icon tooltipped tooltipped-nw" aria-label="Browse commits for this branch">
-        History
-      </a>
-    </div>
-    <div class="breadcrumb"><span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets"><span>project-assets</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets/tree/master/stream-1"><span>stream-1</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets"><span>band-assets</span></a></span><span class="separator">/</span><strong class="final-path">video</strong><span class="separator">/</span></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Code-Institute-Org/project-assets/delete/master/stream-1/band-assets/audio/ImABeliever.mp3" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0lVLk/JMvrCuJ8QBFvuRlPqIs7x/6Doz6IUBt8zuCQUqv/9Z2wPAfwPMzyPU+eVTLLlGWf47krCnaRfMKqI6Gw==" />
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Fork this project and delete the file" data-disable-with>
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
+
+  <div class="file-info">
+    2.98 MB
   </div>
-
-  
-
-
-  <div class="commit-tease js-details-container Details d-flex rounded-top-1" data-issue-and-pr-hovercards-enabled>
-    
-<div class="AvatarStack flex-self-start ">
-  <div class="AvatarStack-body" aria-label="aaronsnig501">
-
-        <a class="avatar" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=6662665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/aaronsnig501">
-          <img height="20" width="20" alt="@aaronsnig501" src="https://avatars3.githubusercontent.com/u/6662665?s=60&amp;v=4" />
-</a>  </div>
 </div>
 
-    <div class="flex-auto f6 mr-3">
       
-      <a href="/Code-Institute-Org/project-assets/commits?author=aaronsnig501"
-     class="commit-author tooltipped tooltipped-s user-mention"
-     aria-label="View all commits by aaronsnig501">aaronsnig501</a>
 
-
-  
-
-
-        <a data-pjax="true" title="Add assets for stream-1 project" class="message" href="/Code-Institute-Org/project-assets/commit/e7240f1bc26b9609da75a4408e9dbea792d38c59">Add assets for stream-1 project</a>
-
-    </div>
-    <div class="no-wrap">
-      Latest commit
-      <a class="commit-tease-sha" href="/Code-Institute-Org/project-assets/commit/e7240f1bc26b9609da75a4408e9dbea792d38c59" data-pjax>
-        e7240f1
-      </a>
-      <span itemprop="dateModified"><relative-time datetime="2016-12-22T15:44:59Z">Dec 22, 2016</relative-time></span>
-    </div>
+  <div itemprop="text" class="blob-wrapper data type-text ">
+      <div class="image">
+          <a href="/Code-Institute-Org/project-assets/blob/master/stream-1/band-assets/audio/ImABeliever.mp3?raw=true">View Raw</a>
+            <p>(Sorry about that, but we can’t show files that are this big right now.)</p>
+      </div>
   </div>
 
-
-
-<div class="file-wrap">
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Code-Institute-Org/project-assets/tree/e7240f1bc26b9609da75a4408e9dbea792d38c59/stream-1/band-assets/video">Permalink</a>
-
-  <table class="files js-navigation-container js-active-navigation-container" data-pjax>
-    <thead>
-      <tr>
-        <th><span class="sr-only">Type</span></th>
-        <th><span class="sr-only">Name</span></th>
-        <th><span class="sr-only">Latest commit message</span></th>
-        <th><span class="sr-only">Commit time</span></th>
-      </tr>
-    </thead>
-      <tr class="up-tree js-navigation-item">
-        <td></td>
-        <td><a rel="nofollow" title="Go to parent directory" class="js-navigation-open" href="/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets">..</a></td>
-        <td></td>
-        <td></td>
-      </tr>
-
-
-    <tbody>
-      <tr class="warning include-fragment-error">
-        <td class="icon"><svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg></td>
-        <td class="content" colspan="3">Failed to load latest commit information.</td>
-      </tr>
-
-        <tr class="js-navigation-item">
-          <td class="icon">
-            <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
-            <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
-          </td>
-          <td class="content">
-            <span class="css-truncate css-truncate-target"><a class="js-navigation-open" title="TheMonkees.mp4" id="f75e9b339beb403102a3d9888fc244d6-d8cbf2a1f503e8cf161ab1172035c4574405a702" href="/Code-Institute-Org/project-assets/blob/master/stream-1/band-assets/video/TheMonkees.mp4">TheMonkees.mp4</a></span>
-          </td>
-          <td class="message">
-            <span class="css-truncate css-truncate-target">
-                  <a data-pjax="true" title="Add assets for stream-1 project" class="message" href="/Code-Institute-Org/project-assets/commit/e7240f1bc26b9609da75a4408e9dbea792d38c59">Add assets for stream-1 project</a>
-            </span>
-          </td>
-          <td class="age">
-            <span class="css-truncate css-truncate-target"><time-ago datetime="2016-12-22T15:44:59Z">Dec 22, 2016</time-ago></span>
-          </td>
-        </tr>
-    </tbody>
-  </table>
-
-</div>
-
-
+    </div>
 
   
+
+  <details class="details-reset details-overlay details-overlay-dark">
+    <summary data-hotkey="l" aria-label="Jump to line"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+        <button type="submit" class="btn" data-close-dialog>Go</button>
+</form>    </details-dialog>
+  </details>
 
 
 
@@ -884,6 +864,7 @@
 
     </div>
   </div>
+  
 
   </div>
 
@@ -891,10 +872,10 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.19753s from unicorn-7d4bc8845c-5x6zp">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.26385s from unicorn-85bc644455-xcbgq">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
-        <li class="mr-3"><a href="/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
         <li class="mr-3"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
     </ul>
@@ -907,7 +888,7 @@
         <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
       <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
       <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
-        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li class="mr-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
 
     </ul>
@@ -929,9 +910,9 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha512-SPoFJMTMl+CapK/Ylm/H6xXM3eQitHUqK2teqBwodDzealLe5PhPR+KMk9EszyUx0xOghsyGJuUqPI589qeGOw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-24c750549997e0e6c70e0169cf4763bf.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-wGR6eNtxDxWfqfl2Qkc6PJi53UcuimD2jIlCQ9JVbhdV7fXMj7VlfzHSjjsBpFWnM5YNKz2LY2SSNvKgStXdow==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-60e34f08371384b8f7942cee70fec187.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-gdYdcfzgeKLgYlJqecAY0pvi2z0s/u699IHipIRP9eaen5H4iSL6jNeUSRGhGQ4nz6Iihb47rxE0wKjL1tDktw==" type="application/javascript" src="https://github.githubassets.com/assets/github-427a46575895b003ec4e27b3ac910fd3.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-LN8bZ4aK1ZTLGv46HqqdewzqFYrdDMfJraPO7svehOtguJqfEQb+eGEHG38Vyd9cy2Q6iPDzXZbBdn0oaQwIUg==" type="application/javascript" src="https://github.githubassets.com/assets/github-42a805eda63d764ab063b27840d87e1c.js"></script>
     
     
     
@@ -940,16 +921,6 @@
     <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
     <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
   </div>
-  <div class="facebox" id="facebox" style="display:none;">
-  <div class="facebox-popup">
-    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
-    </div>
-    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
-      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-    </button>
-  </div>
-</div>
-
   <template id="site-details-dialog">
   <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark" open>
     <summary aria-haspopup="dialog" aria-label="Close dialog"></summary>
