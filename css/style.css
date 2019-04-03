@@ -87,6 +87,10 @@ body {
     justify-content: center;
 }
 
+.photovideo-container .col-xs-12 .col-md-4 {
+
+}
+
 /*------------Dividers-----------------*/
 
 .dividers {
@@ -184,7 +188,12 @@ footer{
     margin-top: 0;
 }
 
-
+.photovideo-header {
+    text-align: center;
+    text-decoration: none;
+    color: #cccccc;
+    margin-top: 0;
+}
 
 /*--------Audio------------*/
 .audio-body{
@@ -211,3 +220,5 @@ footer{
     text-decoration:underline; 
     
 }
+
+/*-----------Video----------------*/
