@@ -10,31 +10,45 @@ body {
 .navbar-bandname a {
     font-family: "Sarabun", sans-serif;
     font-weight:bold;
-    margin-top: 0;
-    margin-bottom: 10px;
     top: 0;
-    position: fixed;
     left: 0;
-    padding-top:25px;
     color: #fff;
     font-size:40px;
 }
 
-.navbar-header {
-    margin-top: 0;
-    top: 0;
+.navbar {
+    z-index:1;
+    background-color: black;
+    width: 100%;
+    min-height: 20px;
+    z-index: 100;
+    padding: 10px;
+    top: 0px;
+    opacity: 0.8;
+    border-radius: 4px;
     position: fixed;
-    right: 0;
-    padding: 20px;
+    border: none;
 }
 
-.navbar-brand a {
+.navbar a, .nav h5 {
     font-family: "Sarabun", sans-serif;
+    font-size: 32px;
+}
+
+.nav a {
+    font-family: "Sarabun", sans-serif;
+    font-size: 25px;
+    color: #bababa;
+    border:0;
     
 }
 
 .navbar-header:hover li {
     color: #bababa;
+}
+
+.navbar-center {
+    position: relative;
 }
 
 /*------------Containers-----------------*/
@@ -87,9 +101,12 @@ body {
     justify-content: center;
 }
 
-.photovideo-container .col-xs-12 .col-md-4 {
-
+.footer-container {
+    align-items: center;
+    display: inline-block;
 }
+
+
 
 /*------------Dividers-----------------*/
 
@@ -101,7 +118,15 @@ body {
     border:0;
     margin-top: 20px;
   
-}  
+}
+
+.block-dividers {
+    width: 250px;
+    height: 5px;
+    border: 0;
+    background-color: #cccccc;
+    opacity: 0.50;
+}
 
 .aboutus-dividers {
     background-color: #919191;
@@ -110,6 +135,16 @@ body {
     height: 6px;
     border:0;
     margin-top: 10px;
+}
+
+.photovideo-dividers {
+    background-color: #919191;
+    opacity: .70;
+    width: 150px;
+    height: 6px;
+    border:0;
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
 
 .opaque-overlay {
@@ -161,6 +196,17 @@ body {
     
 }
 
+.navbar-container {
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    min-height: 20px;
+    z-index: 100;
+    padding: 10px;
+    top: 0px;
+    opacity: 0.8;
+}
+
 .signup-btn .btn:hover a{
     background-color: #ffffff;
 }
@@ -170,13 +216,12 @@ body {
 footer{
     background-color: #050505;
     color:#cccccc;
-    opacity: 0.6;
-    min-height: 20px;
+    min-height: 80px;
     width:100%;
-    margin-left: -15px;
-    position:fixed;
+    position:relative;
     bottom:0;
     text-align:center;
+    padding-top: 15px;
 }
 
 /*---------Headers-----------------*/
@@ -188,12 +233,22 @@ footer{
     margin-top: 0;
 }
 
+.page-header {
+    text-align: center;
+    text-decoration: none;
+    color: #cccccc;
+    margin-top: 0;
+    border: none;
+}
+
 .photovideo-header {
     text-align: center;
     text-decoration: none;
     color: #cccccc;
     margin-top: 0;
+    margin: 5px;
 }
+
 
 /*--------Audio------------*/
 .audio-body{
@@ -221,4 +276,92 @@ footer{
     
 }
 
-/*-----------Video----------------*/
+/*-----------Media queries----------------*/
+
+@media (max-width:767px) {
+    .mobile {
+       height: 812px;
+       width: 375px;
+    }
+}
+
+/*------------Bookus------------------*/
+
+.jumbotron {
+    background-color:transparent;
+    margin-bottom: 10px;
+}
+
+.jumbotron h2 {
+    color: #cccccc;
+    font-weight: bold;
+}
+
+.jumbotron .lead {
+    color: #cccccc;
+    margin: 25px 0;
+}
+
+.btn--cta {
+    font-weight: bold;
+    border-radius:23px;
+    width:160px;
+}
+
+.btn--white {
+    color:#000000;
+    background-color:#cccccc;
+    border-color:#cccccc;
+}
+
+.btn--white:hover
+.btn--white:active
+.btn--white:focus
+.btn--white:active:focus {
+    background-color:#000000;
+    border-color:#515151;
+    color:#ffffff;
+}
+
+/*------------Modal------------------*/
+
+.modal-title {
+    text-align: center;
+}
+
+@media (min-width: 768px)
+.bs-example {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+    
+.nav>li>a.btn-social:focus, .nav>li>a.btn-social:hover {
+    background-color: rgba(200, 200, 200, 0.2);
+}
+
+.btn-success {
+    background-color: #808080;
+    border-color:#909090;
+    color: #fafafa;
+}
+
+.btn-success:hover {
+    background-color: #909090;
+    border-color:#a1a1a1;
+}
+
+.nav>li.icon {
+    display: inline-block;
+} 
+
+@media (max-width: 768px) {
+    .nav>li:first-child.icon {
+        display: block;
+    }   
+} 

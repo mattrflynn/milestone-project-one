@@ -13,41 +13,107 @@
 </head>
 
 <body>
-    <div class="container-fluid">
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">The Developers</a>
+        </div>
+    
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="aboutus.html">About Us</a></li>
+            <li><a href="ourmusic.html">Our Music</a></li>
+            <li><a href="photovideo.html">Photo/Video</a></li>
+            <li><a class="active" href="bookus.html">Book Us</a></a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
 
-    </div>
-    </div>
-    <div class="container-fluid background-container">
-        <div class="opaque-overlay">&nbsp;
-            <div class="navbar-bandname">
-                <a href="/" class="navbar-brand">
-          The Developers
-        </a>
-            </div>
-            <div class="navbar-header navbar-right hidden-xs">
-                <ul class="list-inline social-links">
-                    <li>
-                        <h5 class="inline">Follow us...</h5>
-                    </li>
-                    <li><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a target="_blank" href="#"><i class="fa fa-pinterest"></i></a></li>
-                    <li><a target="_blank" href="#"><i class="fa fa-instagram"></i></a></li>
-                    <li><a target="_blank" href="#"><i class="fa fa-youtube"></i></a></li>
+    <div class="container-wrapper">
+        <div class="container-fluid background-container">
+            <div class="opaque-overlay">&nbsp;</div>
+            
+            <div class="container-fluid bookus-container">
+                <div class="row"> 
+                    <div class="col-xs-12">
+                        <section class="subscribe jumbotron text-center">
+                            <h2>Book us for your next big event</h2>
+                            <hr class="block-dividers">
+                            <p class="lead">Book today to receive 20% off and make your event epic with The Developers</p>
+                            <p><button class="btn btn-lg btn--cta btn--white" data-toggle='modal' data-target='#signUpModal'>Book Now</button></p>
+                        </section>
+                    </div>
+                </div>
             </div>
         </div>
-</body>
-    <footer>
-        <div class="container-fluid">
-            <div class="container footer-container">
-                <div id="footer-details" class="row">
-                    <h3 class="uppercase general-sub">Stay up to date</h3>
-                    <p class="inline-block">For our latest tour information, releases and exclusive offers, subscribe below</p>
-                    <a href="/login" class="btn btn-default signup-btn">Sign up</a>
+        <footer>
+        <div>
+            <div class="container-fluid footer-container">
+                <div class="col-xs-12">
+                    <ul class="nav navbar-nav navbar-center">
+                        <li class="icon">
+                            <h5 class="inline">Follow us...</h5>
+                        </li>
+                        <li class="icon"><a class="btn-social" target="_blank" href="https://www.facebook.com/bandofhorses/"><i class="fa fa-facebook"></i></a></li>
+                        <li class="icon"><a class="btn-social" target="_blank" href="https://twitter.com/royalblooduk?s=09"><i class="fa fa-twitter"></i></a></li>
+                        <li class="icon"><a class="btn-social" target="_blank" href="https://www.linkedin.com/in/matt-flynn-48427232"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="icon"><a class="btn-social" target="_blank" href="https://pin.it/fk5vr2y5fo7il6"><i class="fa fa-pinterest"></i></a></li>
+                        <li class="icon"><a class="btn-social" target="_blank" href="https://instagram.com/royalblooduk?utm_source=ig_profile_share&igshid=p496e3zjywk2"><i class="fa fa-instagram"></i></a></li>
+                        <li class="icon"><a class="btn-social" target="_blank" href="https://www.youtube.com/user/OfficialSpecials"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
                 </div>
             </div>
         </div>
     </footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+
+    
+    <!--Modal-->    
+    <div class="modal fade" id="signUpModal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+       <div class="modal-dialog" role="document">
+           <div class="modal-content">
+               <div class="modal-header">
+                   <button class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                   <h4 class="modal-title" id="myModalLabel">Book The Developers</h4>
+               </div>
+           <div class="modal-body">
+               <form>
+                   <div class="form-group">
+                       <label for="name">Full name</label>
+                       <input type="name" required class="form-control" id="name" placeholder="Name">
+                   </div>
+                   <div class="form-group">
+                       <label for="email">Email address</label>
+                       <input type="email" required class="form-control" id="email" placeholder="Email">
+                   </div>
+                   <div class="form-group">
+                       <label>Tell us about your event</label>
+                       <div class="panel panel-default">
+                           <div class="panel-body">
+                               <label for="note">Date of the event</label>
+                               <input type="date" required name="bday" required><br/>
+                               <label for="note">Special Request</label>
+                               <textarea class="form-control" rows="3"></textarea>
+                           </div>
+                        </div>
+                   </div>
+                   <button type="submit" class="btn btn-success">Send!</button>
+               </form>
+           </div>
+           </div>
+       </div> 
+    </div>
 
 </html>
