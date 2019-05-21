@@ -1,48 +1,57 @@
-The Developers Website
+# **The Developers Website**
+
+![Screen Shot 2019-05-15 at 21 57 48](https://user-images.githubusercontent.com/33867851/57809157-d40f9b80-775c-11e9-844f-7b61d9ac5d2a.png)
 
 The Developers are an iconic 1960's rock band with over 50 years of music experience. 
-After a long and succesful career spanning across the world, the bandmembers (Bob, Randy and Geoff) are
-ready to propel their music in to the modern age by digitalising their full back catalogue, releasing new music
-and showcasing footage from their concerts on a new website. Alongside this, they wish to make themselves available
-to play private functions through the booking system on their website. The Developers hope that their new website
-will help to further develop their growing social media presence so people continue rocking out to their music for 
-years to come.
 
-UX
+After a long and succesful career spanning across the world, the bandmembers (Bob, Randy and Geoff) are ready to propel their music in to the modern age by digitalising their full back catalogue, releasing new music and showcasing footage from their concerts on a new website. Alongside this, they wish to make themselves available to play private functions through the booking system on their website. The Developers hope that their new website will help to further develop their growing social media presence so people continue rocking out to their music for years to come.
 
-This site has been built for current fans of The Developers as well as people with lesser knowledge of the band 
-that want to explore their history through discovering their back catalogue, video archive or through reading profiles
-of the band. The site ties together all aspects 
+## UX
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This site has been built for current fans of The Developers as well as people with lesser knowledge of the band that want to;
+- explore their history through discovering their back catalogue
+- watch videos of The Developers through their video archive
+- read profiles of the band
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+## User stories
+User One wants to read the bands profiles so he can find out more about The Developers. By accessing the "About Us" link on the home page, he is taken to the About Us page where he can read about Bob, Randy & Geoff
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+User Two  wants to access the bands social media links so she can follow the bands Twitter updates. By scrolling to the bottom of the page, she is able to click the Twitter Icon and be taken to The Developers Twitter page.
 
-Features
+User Three has been watching videos of the band and would now like to listen to some of the Developers Music. Using the Navigation bar at the top of the web page, He is able to click the "Our Music" link and access "The Developers" music from this page.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+User Four is a long time fan of the developers and would like to book "The Developers" and would like to book the band for her wedding. From the home page, she can click the "Book Us" link to arrive at the booking page. From this page, the user is able to fill in her contact details and select dates for the booking.
 
-Existing Features
+User Five is accessing "The Developers" website from an iPhone. From the home page, he wants to book the band. From the drop down menu, he is able to click "book us" tab to navigate to the "book us" page and book "The Developers" for his event.
 
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+## Existing Features
+Book Us Button - Allows users to access the booking form for "The Developers" by selecting specific dates for their event as well as let the band know about any specific requirements for the event.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Social media links - Allows users to access "The Developers" social media channels to keep up with regular social updates.
+Navbar - Allows the user to access each of the websites different pages to easily navigate the website.
+Button drop down - When accessing the website via mobile, the button dropdown menu allows the user to access each of the websites different pages.
 
-Features Left to Implement
+## Features Left to Implement
+Social media feed - This would allow users to read reviews, comments and information being shared about "The Developers" via social media directly on the website.
+Events calendar and ticket booking - This would allow users to assess up coming events and book tickets for gigs based on events
 
-Another feature idea
-Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
+## Technologies Used
 JQuery
 The project uses JQuery to simplify DOM manipulation.
-Testing
+
+Bootstrap
+The project uses Bootstrap to improve the layout through its grid system and to improve its functionality on mobile.
+
+Font awesome
+The project uses Font Awesome for the design of fonts and icons to improve its aesthetic appeal to users
+
+## Testing
+
+After thoroughly testing the website, I have been unable to find any flaws in its functionality. This has included the use of the use of booking forms with incorrectly entered forms - blank and incorrect email addresses. These tests have shown error messages meaning the user would be required to enter details correctly.
+
+Thorough testing has also been conducted across the following devices:
+
+
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -61,7 +70,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
+# Deployment
+
+https://mattrflynn.github.io/milestone-project-one/
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
