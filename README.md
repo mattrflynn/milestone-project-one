@@ -13,6 +13,15 @@ This site has been built for current fans of The Developers as well as people wi
 - watch videos of The Developers through their video archive
 - read profiles of the band
 
+### Wireframe mockups
+
+https://github.com/mattrflynn/milestone-project-one/blob/master/Desktophome.jpg
+
+https://github.com/mattrflynn/milestone-project-one/blob/master/Desktopsamplepage.jpg
+
+https://github.com/mattrflynn/milestone-project-one/blob/master/Mobilehome.jpg
+
+
 ## User stories
 User One wants to read the bands profiles so he can find out more about The Developers. By accessing the "About Us" link on the home page, he is taken to the About Us page where he can read about Bob, Randy & Geoff
 
@@ -35,15 +44,25 @@ Button drop down - When accessing the website via mobile, the button dropdown me
 Social media feed - This would allow users to read reviews, comments and information being shared about "The Developers" via social media directly on the website.
 Events calendar and ticket booking - This would allow users to assess up coming events and book tickets for gigs based on events
 
-## Technologies Used
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+Upon submitting a book us request through the book us tab, I would like to add an alert which notifies users that their booking has been requested and is being considered for approval
 
-Bootstrap
+## Technologies Used
+* JQuery
+The project uses JQuery to allow the burger icon to work within the navbar.
+
+* Bootstrap
 The project uses Bootstrap to improve the layout through its grid system and to improve its functionality on mobile.
 
-Font awesome
+* Font awesome
 The project uses Font Awesome for the design of fonts and icons to improve its aesthetic appeal to users
+
+* HTML5
+This was used as the layout to fully build the website
+
+* CSS
+This was used to style the website
+
+
 
 ## Testing
 
@@ -51,53 +70,39 @@ After thoroughly testing the website, I have been unable to find any flaws in it
 
 Thorough testing has also been conducted across the following devices:
 
+- Samsung Galaxy S8 – Android 8.0
+- Samsung Galaxy S6 – Android 7.0
+- Samsung Galaxy S7 - Android 8.0
+- Honor 8x - Android 8.1
+- iPhone 8 – iOS 12.3
+- iPhone 5 - iOS 12.1
+- HP Laptop 15-bs0xx – Windows 10
+- iPad Air 2 – iOS 12.3
 
+Browser testing:
+- Chrome
+- Safari
+- Firefox
+- Microsoft edge
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+# Issues
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+I had an issue when launching the website on the iphone 5. The navbar is hiding elements of the content which meant the UX of using the website was affected slightly. Despite efforts to fix this issue, I was unable to do so.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+I had an issue with aligning the text on the "about us" page . Although this is aligned where I would want it on the desktop, when viewing this through mobile (all mobiles inclusive) the lower text is slightly off centre.
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Validation
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+All files passed validation testing at https://validator.w3.org/nu/#textarea
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 # Deployment
 
-https://mattrflynn.github.io/milestone-project-one/
+My website is currently deployed on Github Pages - https://mattrflynn.github.io/milestone-project-one/
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+In order to deploy my website, I used Git hub pages. Once all files were saved to my repository, I utilised the setting function on GitHub and used "Git Hub Pages" and "master branch" which allowed me to publish my page at https://mattrflynn.github.io/milestone-project-one/
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-Credits
-
-Content
-
-The text for section Y was copied from the Wikipedia article Z
-Media
-
-The photos used in this site were obtained from ...
-Acknowledgements
-
-I received inspiration for this project from X
-
-
-
-
+# Credits
 
 https://www.bootstrapcdn.com/
 
@@ -106,13 +111,22 @@ https://getbootstrap.com/docs/3.3/getting-started/ meta tags
 Javascript and CSS libraries used
 https://cdnjs.com/
 
-Image/Video credits
+## Media content
+
+### Images
 Background: https://www.theblot.com/old-man-punk-rock-punk-genre-7767599
+
 Album artwork: https://colleenplays.org/artwork/
 
-Video: Pink Floyd, Youtube https://www.youtube.com/embed/EodytPmki5s
+### Video
+Pink Floyd, Youtube https://www.youtube.com/embed/EodytPmki5s
+
+### Audio
+Assets used from the provided course content on https://github.com/Code-Institute-Org/project-assets
+
+### Code institute
+Code Institue Mentor Guido Cellio who assisted with trouble shooting bug fixes and creative guidance on how to improve the site
 
 
-# milestone-project-one
-# milestone-project-one
-# milestone-project-one
+
+
