@@ -329,7 +329,7 @@ footer{
     text-align: center;
 }
 
-@media (min-width: 768px)
+@media (min-width: 768px) {
 .bs-example {
     margin-right: 0;
     margin-left: 0;
@@ -339,6 +339,7 @@ footer{
     border-radius: 4px 4px 0 0;
     -webkit-box-shadow: none;
     box-shadow: none;
+    }
 }
     
 .nav>li>a.btn-social:focus, .nav>li>a.btn-social:hover {
