@@ -104,11 +104,18 @@ In order to deploy my website, I used Git hub pages. Once all files were saved t
 
 # Credits
 
-https://www.bootstrapcdn.com/
+### Code institute
+Code Institue Mentor Guido Cellio who assisted with trouble shooting bug fixes and creative guidance on how to improve the site
 
-https://getbootstrap.com/docs/3.3/getting-started/ meta tags
+### Styling
+https://www.bootstrapcdn.com/ Font Awesome has been used in the assistnace of font and icon styling within the project
 
-Javascript and CSS libraries used
+### Meta tags
+
+https://getbootstrap.com/docs/3.3/getting-started/ Bootstrap meta tags were used to render the site, making it accessible from all devices
+
+### Javascript and CSS libraries used
+
 https://cdnjs.com/
 
 ## Media content
@@ -124,8 +131,7 @@ Pink Floyd, Youtube https://www.youtube.com/embed/EodytPmki5s
 ### Audio
 Assets used from the provided course content on https://github.com/Code-Institute-Org/project-assets
 
-### Code institute
-Code Institue Mentor Guido Cellio who assisted with trouble shooting bug fixes and creative guidance on how to improve the site
+
 
 
 
