@@ -15,7 +15,7 @@ This site has been built for current fans of The Developers as well as people wi
 
 ### Wireframe mockups
 
-https://github.com/mattrflynn/milestone-project-one/blob/master/Desktophome.jpg
+https://github.com/mattrflynn/milestone-project-one/blob/master/Desktophomecropped.JPG
 
 https://github.com/mattrflynn/milestone-project-one/blob/master/Desktopsamplepage.jpg
 
